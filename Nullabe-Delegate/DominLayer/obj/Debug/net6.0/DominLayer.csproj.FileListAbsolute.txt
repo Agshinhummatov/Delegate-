@@ -1,0 +1,12 @@
+C:\Users\User-BT\Desktop\Nolleblar\Nullabe-Delegate\DominLayer\bin\Debug\net6.0\DominLayer.deps.json
+C:\Users\User-BT\Desktop\Nolleblar\Nullabe-Delegate\DominLayer\bin\Debug\net6.0\DominLayer.dll
+C:\Users\User-BT\Desktop\Nolleblar\Nullabe-Delegate\DominLayer\bin\Debug\net6.0\DominLayer.pdb
+C:\Users\User-BT\Desktop\Nolleblar\Nullabe-Delegate\DominLayer\obj\Debug\net6.0\DominLayer.csproj.AssemblyReference.cache
+C:\Users\User-BT\Desktop\Nolleblar\Nullabe-Delegate\DominLayer\obj\Debug\net6.0\DominLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-BT\Desktop\Nolleblar\Nullabe-Delegate\DominLayer\obj\Debug\net6.0\DominLayer.AssemblyInfoInputs.cache
+C:\Users\User-BT\Desktop\Nolleblar\Nullabe-Delegate\DominLayer\obj\Debug\net6.0\DominLayer.AssemblyInfo.cs
+C:\Users\User-BT\Desktop\Nolleblar\Nullabe-Delegate\DominLayer\obj\Debug\net6.0\DominLayer.csproj.CoreCompileInputs.cache
+C:\Users\User-BT\Desktop\Nolleblar\Nullabe-Delegate\DominLayer\obj\Debug\net6.0\DominLayer.dll
+C:\Users\User-BT\Desktop\Nolleblar\Nullabe-Delegate\DominLayer\obj\Debug\net6.0\refint\DominLayer.dll
+C:\Users\User-BT\Desktop\Nolleblar\Nullabe-Delegate\DominLayer\obj\Debug\net6.0\DominLayer.pdb
+C:\Users\User-BT\Desktop\Nolleblar\Nullabe-Delegate\DominLayer\obj\Debug\net6.0\ref\DominLayer.dll
